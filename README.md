@@ -1,5 +1,5 @@
 # Olá, nós somos a Equipe NEXUS #23501! 🦊
-# NexusFtc
+# NexusFtc 🦊
 
 Bem-vindo ao nosso repositório! Aqui você encontrará nossos códigos para a temporada atual da FIRST Tech Challenge - DECODE.
 
@@ -8,7 +8,7 @@ Bem-vindo ao nosso repositório! Aqui você encontrará nossos códigos para a t
 -  💻 **Linguagem:** Java
 - 📍 **Local:** Goiania-GO
 
-🦊
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nexus-Jc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
